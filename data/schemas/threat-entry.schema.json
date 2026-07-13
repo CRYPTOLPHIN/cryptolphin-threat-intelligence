@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "address": {
+            "type": "string"
+        },
+        "chain": {
+            "type": "string"
+        },
+        "category": {
+            "type": "string"
+        }
+    }
+}
