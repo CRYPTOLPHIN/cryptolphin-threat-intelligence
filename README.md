@@ -2,7 +2,7 @@ Cryptolphin Threat Intelligence
 
 Open security intelligence for protecting Web3 users from scams, phishing and malicious blockchain activity.
 
-## Mission
+Mission
 
 Cryptocurrency transactions are irreversible. Prevention is the strongest form of security.
 
